@@ -1,4 +1,4 @@
-# Free-Data-Engineering-Course-for-Beginners
+# Free-Data-Engineering-Tutorial-for-Beginners
 Learn the basics of data engineering!
 
 This mini-course for beginners covers the entire ETL process based on Spotify API data. 
